@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">sol5</string>
+    <string name="hello_this_is_your_app">Hello, this is your app!</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="open_gallery">Open Gallery</string>
+</resources>
